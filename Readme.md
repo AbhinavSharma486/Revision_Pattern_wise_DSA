@@ -12,6 +12,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | ---- | ------------ | --------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1    | Two Pointers | Find Sum of Array | -      | -         | -    |
 | 2    | Two Pointers | 167. Two Sum II - Input Array Is Sorted | LeetCode      | [View Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)      | [Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/post-solution/?submissionId=1925530438) |
+| 3    | Two Pointers | 26. Remove Duplicates from Sorted Array | LeetCode      | [View Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)      | [Solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/post-solution/?submissionId=1927509214) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
