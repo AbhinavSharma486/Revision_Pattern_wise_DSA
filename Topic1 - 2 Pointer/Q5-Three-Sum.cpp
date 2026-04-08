@@ -1,5 +1,5 @@
-// * Question :- Three Sum -> 0
-// & Link :-
+// * Question :- 15. 3Sum
+// & Link :- https://leetcode.com/problems/3sum/description/?source=submission-ac
 
 // & Optimized Approach :-
 // ^ Time complexity :- O(n^2)
