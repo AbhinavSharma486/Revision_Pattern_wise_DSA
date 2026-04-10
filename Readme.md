@@ -19,6 +19,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 7    | Two Pointers | Triplets with Smaller Sum | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)      | - |
 | 8    | Two Pointers | 88. Merge Sorted Array | LeetCode      | [View Problem](https://leetcode.com/problems/merge-sorted-array/description/)      | [Solution](https://leetcode.com/problems/merge-sorted-array/post-solution/?submissionId=1936220252) |
 | 9    | Two Pointers | Pair with given sum in a sorted array | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)      | - |
+| 10    | Two Pointers | 283. Move Zeroes | LeetCode      | [View Problem](https://leetcode.com/problems/move-zeroes/description/)      | [Solution](https://leetcode.com/problems/move-zeroes/post-solution/?submissionId=1939608513) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
