@@ -18,6 +18,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 6    | Two Pointers | 16. 3Sum Closest | LeetCode      | [View Problem](https://leetcode.com/problems/3sum-closest/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/3sum-closest/post-solution/?submissionId=1930794806) |
 | 7    | Two Pointers | Triplets with Smaller Sum | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)      | - |
 | 8    | Two Pointers | 88. Merge Sorted Array | LeetCode      | [View Problem](https://leetcode.com/problems/merge-sorted-array/description/)      | [Solution](https://leetcode.com/problems/merge-sorted-array/post-solution/?submissionId=1936220252) |
+| 9    | Two Pointers | Pair with given sum in a sorted array | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)      | - |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
