@@ -21,6 +21,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 9    | Two Pointers | Pair with given sum in a sorted array | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)      | - |
 | 10    | Two Pointers | 283. Move Zeroes | LeetCode      | [View Problem](https://leetcode.com/problems/move-zeroes/description/)      | [Solution](https://leetcode.com/problems/move-zeroes/post-solution/?submissionId=1939608513) |
 | 11    | Two Pointers | 11. Container With Most Water | LeetCode      | [View Problem](https://leetcode.com/problems/container-with-most-water/description/)      | [Solution](https://leetcode.com/problems/container-with-most-water/post-solution/?submissionId=1955882086) |
+| 12    | Two Pointers | 42. Trapping Rain Water | LeetCode      | [View Problem](https://leetcode.com/problems/trapping-rain-water/description/)      | [Solution](https://leetcode.com/problems/trapping-rain-water/post-solution/?submissionId=1953656959) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
