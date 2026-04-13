@@ -23,7 +23,8 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 11    | Two Pointers | 11. Container With Most Water | LeetCode      | [View Problem](https://leetcode.com/problems/container-with-most-water/description/)      | [Solution](https://leetcode.com/problems/container-with-most-water/post-solution/?submissionId=1955882086) |
 | 12    | Two Pointers | 42. Trapping Rain Water | LeetCode      | [View Problem](https://leetcode.com/problems/trapping-rain-water/description/)      | [Solution](https://leetcode.com/problems/trapping-rain-water/post-solution/?submissionId=1953656959) |
 | 13    | Two Pointers | 75. Sort Colors | LeetCode      | [View Problem](https://leetcode.com/problems/sort-colors/description/)      | [Solution](https://leetcode.com/problems/sort-colors/post-solution/?submissionId=1955882296) |
-| 13    | Sliding Window | Max Sum Subarray of size K | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)      | - |
+| 14    | Sliding Window | Max Sum Subarray of size K | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)      | - |
+| 15    | Sliding Window | 209. Minimum Size Subarray Sum | LeetCode      | [View Problem](https://leetcode.com/problems/minimum-size-subarray-sum/description/)      | [Solution](https://leetcode.com/problems/minimum-size-subarray-sum/post-solution/?submissionId=1958397144) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
