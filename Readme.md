@@ -26,6 +26,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 14    | Sliding Window | Max Sum Subarray of size K | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)      | - |
 | 15    | Sliding Window | 209. Minimum Size Subarray Sum | LeetCode      | [View Problem](https://leetcode.com/problems/minimum-size-subarray-sum/description/)      | [Solution](https://leetcode.com/problems/minimum-size-subarray-sum/post-solution/?submissionId=1958397144) |
 | 16    | Sliding Window | Longest Substring with K Uniques | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)      | - |
+| 17    | Sliding Window | 904. Fruit Into Baskets | LeetCode      | [View Problem](https://leetcode.com/problems/fruit-into-baskets/description/)      | [Solution](https://leetcode.com/problems/fruit-into-baskets/post-solution/?submissionId=1966386235) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
