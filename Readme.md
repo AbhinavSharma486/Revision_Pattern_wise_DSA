@@ -29,6 +29,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 17    | Sliding Window | 904. Fruit Into Baskets | LeetCode      | [View Problem](https://leetcode.com/problems/fruit-into-baskets/description/)      | [Solution](https://leetcode.com/problems/fruit-into-baskets/post-solution/?submissionId=1966386235) |
 | 18    | Sliding Window | 3. Longest Substring Without Repeating Characters | LeetCode      | [View Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/post-solution/?submissionId=1967519315) |
 | 19    | Sliding Window | 424. Longest Repeating Character Replacement | LeetCode      | [View Problem](https://leetcode.com/problems/longest-repeating-character-replacement/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/longest-repeating-character-replacement/post-solution/?submissionId=1970350657) |
+| 20    | Sliding Window | 1004. Max Consecutive Ones III | LeetCode      | [View Problem](https://leetcode.com/problems/max-consecutive-ones-iii/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/max-consecutive-ones-iii/post-solution/?submissionId=1970601618) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
