@@ -1,28 +1,29 @@
+```
 START
 
 ↓
 Kya array sorted hai?
 
 ↓
-YES ---------------------- NO
-↓                        ↓
-left=0, right=n-1      Kya sort kar sakte ho?
-                        ↓
-                     YES → sort + continue
-                     NO → sliding window / special case
+YES ------------------------ NO
+↓                           ↓
+left = 0, right = n-1     Kya sort kar sakte ho?
+                           ↓
+                        YES → sort + continue
+                        NO  → sliding window / special case
 
 ↓
 Problem type identify karo:
 
 -----------------------------------------
-Pair / Sum → Q1, Q8
-Remove / Shift → Q2, Q9
-Square / Transform → Q3
-Triplet (3Sum) → Q4, Q5, Q6
-Merge → Q7
-Max/Min → Q10
-Water trap → Q11
-3 pointer (DNF) → Q12
+Pair / Sum           → Q1, Q8
+Remove / Shift       → Q2, Q9
+Square / Transform   → Q3
+Triplet (3Sum)       → Q4, Q5, Q6
+Merge                → Q7
+Max/Min              → Q10
+Water Trap           → Q11
+3 Pointer (DNF)      → Q12
 -----------------------------------------
 
 ↓
@@ -58,3 +59,4 @@ Loop end
 
 ↓
 Return answer
+```
