@@ -1,72 +1,79 @@
-Sliding Window
+START
+  ↓
+Kya problem me "subarray / substring / contiguous" likha hai?
+  ↓
+NO → Sliding Window nahi (dusra approach use karo)
+  ↓
+YES
+  ↓
+Kya window size fixed hai? (k given hai?)
+  ↓
+        ┌─────────────── YES ───────────────┐
+        ↓                                   ↓
+  FIXED WINDOW                      VARIABLE WINDOW
 
-low → left
-high → right
+-----------------------------       --------------------------------
+FIXED WINDOW FLOW:                VARIABLE WINDOW FLOW:
+-----------------------------       --------------------------------
+i = 0, j = 0                       i = 0, j = 0
+sum / data maintain                map / set / sum maintain
 
------------------------------------
-high++  → Expand window
-low++   → Shrink window
------------------------------------
+while (j < n):                     while (j < n):
+  add arr[j]                         add arr[j] / update map
 
-Flow Chart:
+  if (window < k):                  check condition:
+    j++                              
 
-Array / String
-      ↓
-Subarray / Substring (continuous hona chahiye)
-      ↓
-Linked List ❌
-Subsequence ❌
-Non-contiguous ❌
+  else if (window == k):           ┌─────────────── VALID ───────────────┐
+    update answer                  ↓                                      ↓
+    remove arr[i]              answer update                        expand (j++)
+    i++, j++                  (max / min / count)
 
-      ↓
-Check kya find karna hai:
------------------------------------
-Maximum
-Minimum
-Longest
-Shortest
-Sum / Count / Average
-At most K / At least K / Exactly K
------------------------------------
+                                  ┌────────────── INVALID ──────────────┐
+                                  ↓                                     ↓
+                             shrink window (i++)
+                             remove arr[i]
+                             repeat until valid
 
-      ↓
-Sliding Window Type:
------------------------------------
-1. Fixed Size (k given)
-2. Variable Size (condition based)
------------------------------------
+-----------------------------       --------------------------------
 
-      ↓
-Initialize:
-left = 0
-right = 0
+↓
+Goal identify karo:
 
-      ↓
-while(right < n):
+1. LONGEST (maximize length)
+   → valid hone par update
+   → invalid → shrink
 
-    window me include:
-    → arr[right]
+2. SMALLEST (minimize length)
+   → valid hone par update
+   → shrink aggressively
 
-    ↓
-    Condition check karo:
+3. COUNT subarrays
+   → count += (j - i + 1)
 
-    VALID:
-        → answer update
+4. EXACTLY K
+   → atMost(k) - atMost(k-1)
 
-        Fixed:
-            → size == k
-            → remove arr[left]
-            → left++
-            → right++
+5. DISTINCT / MAP based
+   → frequency map use karo
 
-        Variable:
-            → expand (right++)
+↓
+Loop end
 
-    INVALID:
-        → shrink
-        → remove arr[left]
-        → left++
+↓
+Return answer
 
------------------------------------
 
-End → answer return
+
+
+IF k fixed → fixed window
+
+ELSE:
+  expand (j++)
+  invalid → shrink (i++)
+  valid → update answer
+
+Longest → max
+Smallest → shrink more
+Count → + (j - i + 1)
+Exactly K → atMost(k) - atMost(k-1)
