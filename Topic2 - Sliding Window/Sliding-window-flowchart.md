@@ -1,3 +1,4 @@
+```id="q9x2lp"
 START
   ↓
 Kya problem me "subarray / substring / contiguous" likha hai?
@@ -15,25 +16,26 @@ Kya window size fixed hai? (k given hai?)
 -----------------------------       --------------------------------
 FIXED WINDOW FLOW:                VARIABLE WINDOW FLOW:
 -----------------------------       --------------------------------
-i = 0, j = 0                       i = 0, j = 0
-sum / data maintain                map / set / sum maintain
+i = 0, j = 0                      i = 0, j = 0
+sum / data maintain               map / set / sum maintain
 
-while (j < n):                     while (j < n):
-  add arr[j]                         add arr[j] / update map
+while (j < n):                    while (j < n):
+  add arr[j]                        add arr[j] / update map
 
-  if (window < k):                  check condition:
-    j++                              
+  if (window < k):                 check condition:
 
-  else if (window == k):           ┌─────────────── VALID ───────────────┐
-    update answer                  ↓                                      ↓
-    remove arr[i]              answer update                        expand (j++)
-    i++, j++                  (max / min / count)
+    j++
 
-                                  ┌────────────── INVALID ──────────────┐
-                                  ↓                                     ↓
-                             shrink window (i++)
-                             remove arr[i]
-                             repeat until valid
+  else if (window == k):          ┌────────────── VALID ──────────────┐
+    update answer                 ↓                                  ↓
+    remove arr[i]             answer update                    expand (j++)
+    i++, j++                 (max / min / count)
+
+                                 ┌──────────── INVALID ─────────────┐
+                                 ↓                                 ↓
+                            shrink window (i++)
+                            remove arr[i]
+                            repeat until valid
 
 -----------------------------       --------------------------------
 
@@ -64,7 +66,9 @@ Loop end
 Return answer
 
 
+----------------------------------
 
+QUICK RULES:
 
 IF k fixed → fixed window
 
@@ -77,3 +81,4 @@ Longest → max
 Smallest → shrink more
 Count → + (j - i + 1)
 Exactly K → atMost(k) - atMost(k-1)
+```
