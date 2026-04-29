@@ -36,6 +36,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 24    | Sliding Window | 239. Sliding Window Maximum | LeetCode      | [View Problem](https://leetcode.com/problems/sliding-window-maximum/description/)      | [Solution](https://leetcode.com/problems/sliding-window-maximum/post-solution/?submissionId=1640592430) |
 | 25    | Sliding Window | 992. Subarrays with K Different Integers | LeetCode      | [View Problem](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)      | [Solution](https://leetcode.com/problems/subarrays-with-k-different-integers/post-solution/?submissionId=1977093011) |
 | 26    | Sliding Window | Subarrays with K Distinct Integers | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1)      | - |
+| 27    | Sliding Window | 2461. Maximum Sum of Distinct Subarrays With Length K | LeetCode      | [View Problem](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)      | [Solution](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/post-solution/?submissionId=1978858855) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
