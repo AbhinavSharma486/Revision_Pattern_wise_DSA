@@ -33,6 +33,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 21    | Sliding Window | 485. Max Consecutive Ones | LeetCode      | [View Problem](https://leetcode.com/problems/max-consecutive-ones/description/)      | [Solution](https://leetcode.com/problems/max-consecutive-ones/post-solution/?submissionId=1972343235) |
 | 22    | Sliding Window | Max Consecutive Bit | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/max-consecutive-one/1)      | - |
 | 23    | Sliding Window | 713. Subarray Product Less Than K | LeetCode      | [View Problem](https://leetcode.com/problems/subarray-product-less-than-k/description/)      | [Solution](https://leetcode.com/problems/subarray-product-less-than-k/post-solution/?submissionId=1973343762) |
+| 24    | Sliding Window | 239. Sliding Window Maximum | LeetCode      | [View Problem](https://leetcode.com/problems/sliding-window-maximum/description/)      | [Solution](https://leetcode.com/problems/sliding-window-maximum/post-solution/?submissionId=1640592430) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
