@@ -41,6 +41,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
  | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)      | - |
 | 29    | Sliding Window | 438. Find All Anagrams in a String | LeetCode      | [View Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)      | [Solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/post-solution/?submissionId=1980003284) |
 | 30    | Sliding Window | Count Occurences of Anagrams | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1)      | - |
+| 31    | Sliding Window | 567. Permutation in String | LeetCode      | [View Problem](https://leetcode.com/problems/permutation-in-string/description/)      | [Solution](https://leetcode.com/problems/permutation-in-string/post-solution/?submissionId=1981748751) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
