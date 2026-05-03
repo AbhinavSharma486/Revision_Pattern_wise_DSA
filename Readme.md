@@ -43,6 +43,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 30    | Sliding Window | Count Occurences of Anagrams | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1)      | - |
 | 31    | Sliding Window | 567. Permutation in String | LeetCode      | [View Problem](https://leetcode.com/problems/permutation-in-string/description/)      | [Solution](https://leetcode.com/problems/permutation-in-string/post-solution/?submissionId=1981748751) |
 | 32    | Sliding Window | 76. Minimum Window Substring | LeetCode      | [View Problem](https://leetcode.com/problems/minimum-window-substring/description/)      | [Solution](https://leetcode.com/problems/minimum-window-substring/post-solution/?submissionId=1983144794) |
+| 33    | Fast & Slow Pointer | 141. Linked List Cycle | LeetCode      | [View Problem](https://leetcode.com/problems/linked-list-cycle/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/linked-list-cycle/post-solution/?submissionId=1990686506) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
