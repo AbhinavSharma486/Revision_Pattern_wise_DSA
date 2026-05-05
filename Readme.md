@@ -44,7 +44,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 31    | Sliding Window | 567. Permutation in String | LeetCode      | [View Problem](https://leetcode.com/problems/permutation-in-string/description/)      | [Solution](https://leetcode.com/problems/permutation-in-string/post-solution/?submissionId=1981748751) |
 | 32    | Sliding Window | 76. Minimum Window Substring | LeetCode      | [View Problem](https://leetcode.com/problems/minimum-window-substring/description/)      | [Solution](https://leetcode.com/problems/minimum-window-substring/post-solution/?submissionId=1983144794) |
 | 33    | Fast & Slow Pointer | 141. Linked List Cycle | LeetCode      | [View Problem](https://leetcode.com/problems/linked-list-cycle/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/linked-list-cycle/post-solution/?submissionId=1990686506) |
-| 34    | Fast & Slow Pointer | 42. Linked List Cycle II | LeetCode      | [View Problem](https://leetcode.com/problems/linked-list-cycle-ii/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/linked-list-cycle-ii/post-solution/?submissionId=1992367683) |
+| 34    | Fast & Slow Pointer | 142. Linked List Cycle II | LeetCode      | [View Problem](https://leetcode.com/problems/linked-list-cycle-ii/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/linked-list-cycle-ii/post-solution/?submissionId=1992367683) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
