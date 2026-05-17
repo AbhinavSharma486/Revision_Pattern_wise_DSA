@@ -46,6 +46,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 33    | Fast & Slow Pointer | 141. Linked List Cycle | LeetCode      | [View Problem](https://leetcode.com/problems/linked-list-cycle/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/linked-list-cycle/post-solution/?submissionId=1990686506) |
 | 34    | Fast & Slow Pointer | 142. Linked List Cycle II | LeetCode      | [View Problem](https://leetcode.com/problems/linked-list-cycle-ii/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/linked-list-cycle-ii/post-solution/?submissionId=1992367683) |
 | 35    | Fast & Slow Pointer | 876. Middle of the Linked List | LeetCode      | [View Problem](https://leetcode.com/problems/middle-of-the-linked-list/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/middle-of-the-linked-list/post-solution/?submissionId=1992544325) |
+| 36    | Fast & Slow Pointer | 287. Find the Duplicate Number | LeetCode      | [View Problem](https://leetcode.com/problems/find-the-duplicate-number/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/find-the-duplicate-number/post-solution/?submissionId=1998834198) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
