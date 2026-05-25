@@ -48,6 +48,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 35    | Fast & Slow Pointer | 876. Middle of the Linked List | LeetCode      | [View Problem](https://leetcode.com/problems/middle-of-the-linked-list/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/middle-of-the-linked-list/post-solution/?submissionId=1992544325) |
 | 36    | Fast & Slow Pointer | 287. Find the Duplicate Number | LeetCode      | [View Problem](https://leetcode.com/problems/find-the-duplicate-number/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/find-the-duplicate-number/post-solution/?submissionId=1998834198) |
 | 37    | Fast & Slow Pointer | 202. Happy Number | LeetCode      | [View Problem](https://leetcode.com/problems/happy-number/description/?source=submission-ac)      | [Solution](https://leetcode.com/problems/happy-number/post-solution/?submissionId=2002133688) |
+| 38    | Fast & Slow Pointer | Remove loop in Linked List | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)      | - |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
