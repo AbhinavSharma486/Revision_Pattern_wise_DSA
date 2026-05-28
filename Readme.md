@@ -51,6 +51,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 38    | Fast & Slow Pointer | Remove loop in Linked List | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)      | - |
 | 39    | Fast & Slow Pointer | 19. Remove Nth Node From End of List | LeetCode      | [View Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)      | [Solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/post-solution/?submissionId=2005966023) |
 | 40    | Fast & Slow Pointer | Kth from End of Linked List | GFG      | [View Problem](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)      | - |
+| 41    | Fast & Slow Pointer | 234. Palindrome Linked List | LeetCode      | [View Problem](https://leetcode.com/problems/palindrome-linked-list/description/)      | [Solution](https://leetcode.com/problems/palindrome-linked-list/post-solution/?submissionId=2008721992) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
