@@ -57,6 +57,7 @@ Track every problem solved, day by day. This table is my commitment to consisten
 | 44    | Fast & Slow Pointer | 2130. Maximum Twin Sum of a Linked List | LeetCode      | [View Problem](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)      | [Solution](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/post-solution/?submissionId=2015978791) |
 | 45    | Fast & Slow Pointer | 61. Rotate List | LeetCode      | [View Problem](https://leetcode.com/problems/rotate-list/description/)      | [Solution](https://leetcode.com/problems/rotate-list/post-solution/?submissionId=2017837676) |
 | 46    | Fast & Slow Pointer | 86. Partition List | LeetCode      | [View Problem](https://leetcode.com/problems/partition-list/description/)      | [Solution](https://leetcode.com/problems/partition-list/post-solution/?submissionId=2023293201) |
+| 47    | Fast & Slow Pointer | 1721. Swapping Nodes in a Linked List | LeetCode      | [View Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)      | [Solution](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/post-solution/?submissionId=2023324066) |
 ## <!-- Add new rows below this line -->
 
 _"The journey of a thousand problems begins with a single solution."_
